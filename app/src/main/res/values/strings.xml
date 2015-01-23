@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Crash Catcher</string>
+    <string name="act1">FirstActivity - Floating point division</string>
+    <string name="act2">SecondActivity - Integer division</string>
+
+    <string name="msgCrash">Exception <b>\"%1$s\"</b> has been successfully caught!\n</string>
+    <string name="msgCrashCause">Exception <b>\"%1$s\"</b> (caused by <b>\"%2$s\"</b>) has been successfully caught!\n</string>
+
+    <string-array name="msgMem">
+        <item>All your base are belong to us</item>
+        <item>I\'m sorry Dave, I\'m afraid I can\'t do that</item>
+        <item>Resistance is futile</item>
+        <item>Technically I was never alive, but I appreciate your concern</item>
+        <item>What do you want?</item>
+        <item>By your command</item>
+    </string-array>
+
+    <string name="btnCrash">Test Calc</string>
+    <string name="btnBackgroundCrash">Test Background Crash</string>
+    <string name="btnNext">Next Activity</string>
+    
+    <string name="btnReport">Report It!</string>
+    <string name="btnClose">Close</string>
+    <string name="txtSendReportHint">Press <b>\"Report It!\"</b> to see the stuff</string>
+    <string name="txtCrashTitle">Crash Caught</string>
+    <string name="btnIgnore">Ignore</string>
+</resources>
